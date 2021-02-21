@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="848dc0e4135045a1bdbae02a2168eb40" Name="Diagram1" ZoomLevel="47">
+        <EntityTypeShape EntityType="Model.Address" Width="1.5" PointX="3" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Ad" Width="1.5" PointX="3" PointY="13.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Category" Width="1.5" PointX="3" PointY="17.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Comment" Width="1.5" PointX="7.5" PointY="20.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Contact" Width="1.5" PointX="3" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.FavLogoTitle" Width="1.5" PointX="3" PointY="25.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Log_Table" Width="1.5" PointX="6" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Meta" Width="1.5" PointX="3" PointY="32.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Post" Width="1.5" PointX="5.25" PointY="19.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.PostImage" Width="1.5" PointX="10.5" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.PostTag" Width="1.5" PointX="8.5" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.ProcessType" Width="1.5" PointX="3.75" PointY="29.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.SocialMedia" Width="1.5" PointX="3" PointY="36" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.sysdiagram" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.T_User" Width="1.5" PointX="14.875" PointY="21.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Video" Width="1.5" PointX="3" PointY="39.625" IsExpanded="true" />
+        <AssociationConnector Association="Model.FK_Address_T_User" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Ads_T_User" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Category_T_User" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_POST_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Comment_POST" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Comment_T_User" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Contact_T_User" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_FavLogoTitle_T_User" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Log_Table_ProcessType" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Log_Table_T_User" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Metas_T_User" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_POST_T_User" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_PostImage_POST" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_PostTag_POST" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_PostImage_T_User" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_PostTag_T_User" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_SocialMedia_T_User" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Video_T_User" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

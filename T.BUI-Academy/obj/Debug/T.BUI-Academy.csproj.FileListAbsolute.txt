@@ -1,0 +1,5 @@
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\T.BUI-Academy\bin\Debug\T.BUI-Academy.dll
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\T.BUI-Academy\bin\Debug\T.BUI-Academy.pdb
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\T.BUI-Academy\obj\Debug\T.BUI-Academy.csproj.CoreCompileInputs.cache
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\T.BUI-Academy\obj\Debug\T.BUI-Academy.dll
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\T.BUI-Academy\obj\Debug\T.BUI-Academy.pdb

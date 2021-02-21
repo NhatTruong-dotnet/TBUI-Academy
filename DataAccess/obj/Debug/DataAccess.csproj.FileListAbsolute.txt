@@ -1,0 +1,16 @@
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\DataAccess\bin\Debug\DataAccess.dll
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\DataAccess\bin\Debug\DataAccess.pdb
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\DataAccess\obj\Debug\DataAccess.dll
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\DataAccess\obj\Debug\DataAccess.pdb
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\DataAccess\bin\Debug\T.BUI-Academy.dll
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\DataAccess\bin\Debug\T.BUI-Academy.pdb
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\DataAccess\bin\Debug\DataAccess.dll.config
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\DataAccess\bin\Debug\EntityFramework.dll
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\DataAccess\bin\Debug\EntityFramework.xml
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\DataAccess\bin\Debug\System.Data.SqlClient.dll
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\DataAccess\bin\Debug\System.Data.SqlClient.xml

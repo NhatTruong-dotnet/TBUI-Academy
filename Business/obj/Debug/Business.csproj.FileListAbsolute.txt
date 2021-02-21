@@ -1,0 +1,14 @@
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\Business\bin\Debug\Business.dll
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\Business\bin\Debug\Business.pdb
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\Business\bin\Debug\DataAccess.dll
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\Business\bin\Debug\T.BUI-Academy.dll
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\Business\bin\Debug\DataAccess.pdb
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\Business\bin\Debug\T.BUI-Academy.pdb
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\Business\obj\Debug\Business.csproj.CopyComplete
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\Business\obj\Debug\Business.dll
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\Business\obj\Debug\Business.pdb
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\Business\bin\Debug\EntityFramework.dll
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\Business\bin\Debug\DataAccess.dll.config
+C:\NhatTruong\Project\Main-Project\T.BUI-Academy\Business\bin\Debug\EntityFramework.xml
