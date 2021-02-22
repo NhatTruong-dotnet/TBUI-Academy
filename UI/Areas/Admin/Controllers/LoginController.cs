@@ -31,7 +31,7 @@ namespace UI.Areas.Admin.Controllers
                     UserStatic.isAdmin = user.isAdmin;
                     UserStatic.Namesurname = user.Imagepath;
                     UserStatic.Imagepath = user.Imagepath;
-                    LogBusiness.AddLog(1, "Login", 12);
+                    LogBusiness.AddLog(LogContext.ProcessType.Login, LogContext.TableName.Login, 12);
                     return RedirectToAction("Index", "Post");
                 }
                 else return View();
